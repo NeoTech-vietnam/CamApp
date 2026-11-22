@@ -8,3 +8,8 @@ Product values and build configuration are supplied by neocam_csw/Conf.
 Use the integration host-test runner after fetching dependencies.
 To test uncommitted changes, bind this checkout with packages.local.yml.
 CamApp is NeoCam-specific; its ASW/ASV/DE hierarchy is retained.
+
+## Documentation
+
+Read the [published CamApp specification](https://neotech-vietnam.github.io/CamApp/specification.html)
+or build the [reStructuredText documentation](docs/index.rst) from this repository.
